@@ -1,0 +1,40 @@
+{
+  titulo: "Nivel 1 – Prevalencia de HTA en mi consulta",
+  preguntas: [
+    {
+      p: "En mi consulta de Atención Primaria quiero saber cuántos pacientes tienen HTA actualmente. ¿Qué medida debo calcular?",
+      o: ["Prevalencia", "Incidencia", "Riesgo relativo"],
+      c: 0,
+      fc: "Correcto. La prevalencia indica la proporción de pacientes con HTA en un momento concreto.",
+      fi: "La incidencia mide casos nuevos, no los existentes."
+    },
+    {
+      p: "Para estimar la prevalencia de HTA usando datos de mi cupo, ¿qué diseño de estudio es el más adecuado?",
+      o: ["Estudio transversal", "Estudio de cohortes", "Ensayo clínico"],
+      c: 0,
+      fc: "Correcto. El estudio transversal es el adecuado para medir prevalencia.",
+      fi: "Los estudios de cohortes y ensayos no se usan para prevalencia."
+    },
+    {
+      p: "Si en mi consulta tengo 300 pacientes y 90 están diagnosticados de HTA, ¿cuál es la prevalencia?",
+      o: ["30%", "3%", "90%"],
+      c: 0,
+      fc: "Correcto. 90 entre 300 equivale a una prevalencia del 30%.",
+      fi: "Recuerda dividir el número de casos entre el total de pacientes."
+    },
+    {
+      p: "¿Cuál es la principal utilidad de conocer la prevalencia de HTA en mi consulta?",
+      o: ["Planificar cuidados y recursos", "Diagnosticar HTA", "Decidir el tratamiento farmacológico"],
+      c: 0,
+      fc: "Correcto. La prevalencia ayuda a planificar intervenciones y recursos.",
+      fi: "El diagnóstico y tratamiento no dependen de la prevalencia."
+    },
+    {
+      p: "Los datos que uso para calcular la prevalencia de HTA provienen de:",
+      o: ["Historia clínica y registros de consulta", "Ensayos clínicos publicados", "Datos hospitalarios"],
+      c: 0,
+      fc: "Correcto. Los datos reales de consulta son la base del cálculo.",
+      fi: "Los datos deben ser propios de la población atendida."
+    }
+  ]
+}
